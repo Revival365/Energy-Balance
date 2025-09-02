@@ -1,0 +1,160 @@
+{
+  "todayMetrics": {
+    "currentIntake": 6018,
+    "currentBurn": 2580,
+    "projectedIntake": 7222,
+    "projectedBurn": 2580,
+    "currentDeficit": 3438,
+    "projectedDeficit": 4642
+  },
+  "macros": {
+    "target": {
+      "protein": {
+        "goal": 140,
+        "target": 117
+      },
+      "carbs": {
+        "goal": 75,
+        "target": 50
+      },
+      "fats": {
+        "goal": 52,
+        "target": 40
+      }
+    },
+    "intake": {
+      "protein": 900,
+      "carbs": 600,
+      "fats": 2
+    }
+  },
+  "dailyFlow": {
+    "data": [
+      {
+        "hour": 0,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 1,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 2,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 3,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 4,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 5,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 6,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 7,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 8,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 9,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 10,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 11,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 12,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 13,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 14,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 15,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 16,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 17,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 18,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 19,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 20,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 21,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 22,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 23,
+        "intake": 0,
+        "burn": 76
+      },
+      {
+        "hour": 24,
+        "intake": 0,
+        "burn": 76
+      }
+    ]
+  }
+}
